@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
